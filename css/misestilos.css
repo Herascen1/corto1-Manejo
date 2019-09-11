@@ -1,0 +1,45 @@
+.lista ul
+{
+   
+   padding-right: 0px;
+   padding-left: 0px;
+   padding-bottom: 0px;
+   padding-top: 0px;
+   margin: auto;
+}
+
+.lista li
+{
+   list-style-type: none;
+   display: inline;
+   padding-right: 5px;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+.lista, .parrafoindex{
+
+	text-align: center;
+}
+.parrafoinfo{
+	padding-top: 50px;
+	background-color: white;
+	text-align: center;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding-bottom: 100%;
+}
+.body{
+	background-color: grey;
+}
+.divTabla{
+      padding-right: 0px;
+   padding-left: 0px;
+   padding-bottom: 0px;
+   padding-top: 0px;
+	margin: auto;
+}
